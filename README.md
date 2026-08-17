@@ -112,7 +112,9 @@ To build a single-page Excel dashboard that lets a business user filter by **out
 ## 📷 Dashboard Preview
 
 
-dashboard_overview.png
+<p align="center">
+  <img src="dashboard_overview.png" alt="BlinkIT Grocery Sales Analysis Dashboard" width="900">
+</p>
 
 
 ---
