@@ -111,9 +111,9 @@ To build a single-page Excel dashboard that lets a business user filter by **out
 
 ## 📷 Dashboard Preview
 
-```
+
 dashboard_overview.png
-```
+
 
 ---
 
