@@ -119,23 +119,6 @@ screenshots/dashboard_overview.png
 
 ---
 
-## 🚀 How to Use
-
-1. Clone this repository or download `BlinkIT_Grocery_Data_Excel.xlsx`.
-2. Open the file in Microsoft Excel (2016 or later recommended for slicer support).
-3. Go to the **Dashboard** sheet.
-4. Use the slicers to filter by **Outlet Type**, **Outlet Location Type**, or **Outlet Size** and explore how KPIs and charts update in real time.
-
----
-
-## 📈 Possible Next Steps
-
-- Standardize the `Item Fat Content` field (`low fat` → `Low Fat`) at the source to avoid double-counting in future reports.
-- Investigate why outlet `OUT010` (2011, Grocery Store format) underperforms relative to peers.
-- Layer in a Power BI or Tableau version for cross-filtering with external datasets (e.g., regional demand, delivery times).
-
----
-
 ## 🙋 About
 
 This project was built as a portfolio piece to demonstrate **data cleaning, DAX-style formula work, and dashboard storytelling in Excel** for retail/e-commerce sales analytics.
