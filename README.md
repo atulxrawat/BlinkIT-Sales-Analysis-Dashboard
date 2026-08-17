@@ -111,10 +111,8 @@ To build a single-page Excel dashboard that lets a business user filter by **out
 
 ## 📷 Dashboard Preview
 
-_Add a screenshot of the `Dashboard` sheet here, e.g._
-
 ```
-screenshots/dashboard_overview.png
+dashboard_overview.png
 ```
 
 ---
